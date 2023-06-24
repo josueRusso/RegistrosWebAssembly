@@ -46,12 +46,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.8, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.8, )"
             }
           },
           "imports": [
@@ -128,9 +128,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.8, )"
             },
             "Microsoft.EntityFrameWorkCore.Sqlite": {
               "target": "Package",

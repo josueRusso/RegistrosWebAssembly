@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aplicada_1\\Registros\\Registros\\Client\\Registros.Client.csproj": {}
+    "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Client\\Registros.Client.csproj": {}
   },
   "projects": {
-    "C:\\Aplicada_1\\Registros\\Registros\\Client\\Registros.Client.csproj": {
+    "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Client\\Registros.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aplicada_1\\Registros\\Registros\\Client\\Registros.Client.csproj",
+        "projectUniqueName": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Client\\Registros.Client.csproj",
         "projectName": "Registros.Client",
-        "projectPath": "C:\\Aplicada_1\\Registros\\Registros\\Client\\Registros.Client.csproj",
+        "projectPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Client\\Registros.Client.csproj",
         "packagesPath": "C:\\Users\\Rosangely Russo\\.nuget\\packages\\",
-        "outputPath": "C:\\Aplicada_1\\Registros\\Registros\\Client\\obj\\",
+        "outputPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rosangely Russo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj": {
-                "projectPath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj"
+              "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj": {
+                "projectPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj"
               }
             }
           }
@@ -46,12 +46,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.8, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.8, )"
             }
           },
           "imports": [
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj": {
+    "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj",
+        "projectUniqueName": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj",
         "projectName": "Registros.Shared",
-        "projectPath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj",
+        "projectPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj",
         "packagesPath": "C:\\Users\\Rosangely Russo\\.nuget\\packages\\",
-        "outputPath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\obj\\",
+        "outputPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rosangely Russo\\AppData\\Roaming\\NuGet\\NuGet.Config",

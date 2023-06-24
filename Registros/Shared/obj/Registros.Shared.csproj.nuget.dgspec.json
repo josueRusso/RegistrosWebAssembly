@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj": {}
+    "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj": {
+    "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj",
+        "projectUniqueName": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj",
         "projectName": "Registros.Shared",
-        "projectPath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj",
+        "projectPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj",
         "packagesPath": "C:\\Users\\Rosangely Russo\\.nuget\\packages\\",
-        "outputPath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\obj\\",
+        "outputPath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rosangely Russo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q+WnJ97dwhMujnFCZxYNoxNw+ydGa/7NuoJnEszKWCaQUgX6jLgLK2sIlHhUjNR8zUbaS2L2E1AtP55siDqsDQ==",
+  "dgSpecHash": "2b8KimuIIK/h8WlQKpx0fy94xIIddHmPqpHB27eloW4H+8+fQKLe4RjNZtxcfofsOqX9mHzIJnok1UB4ecWbkw==",
   "success": true,
-  "projectFilePath": "C:\\Aplicada_1\\Registros\\Registros\\Shared\\Registros.Shared.csproj",
+  "projectFilePath": "C:\\Aplicada_1\\RegistrosWebAssembly\\Registros\\Shared\\Registros.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
